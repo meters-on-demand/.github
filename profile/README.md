@@ -9,13 +9,17 @@ Using the cli: https://docs.rainmeter.skin/cli/
 
 Consuming the API: https://docs.rainmeter.skin/api/
 
-# Examples
+# What mond can do
+
+For users:
 
 ```shell
 mond install modkavartini/catppuccin
 ```
 
 ![image](https://github.com/meters-on-demand/.github/assets/93496808/c32772a8-81bc-462f-b105-b8bae343174d)
+
+For developers:
 
 ```shell
 mond package "Meters on Demand"
