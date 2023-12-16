@@ -1,6 +1,6 @@
 # Meters on Demand
 
-the Rainmeter Package Manager
+the Rainmeter package manager
 
 
 # Getting started
