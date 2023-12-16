@@ -7,6 +7,8 @@ the Rainmeter package manager
 
 Using the cli: https://docs.rainmeter.skin/cli/
 
+Publishing your skin: https://docs.rainmeter.skin/adding-skins.html
+
 Consuming the API: https://docs.rainmeter.skin/api/
 
 # What mond can do
