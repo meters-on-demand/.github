@@ -1,4 +1,1 @@
-Be gay; Do crime
-
-![image](https://github.com/meters-on-demand/.github/assets/93496808/c6ff9242-97b1-4bd0-8e70-386e5b799491)
-
+![code of conduct](https://github.com/meters-on-demand/.github/assets/93496808/2c42f5fb-6a9a-4ab2-b864-c6be0f5784eb)
