@@ -1,0 +1,1 @@
+Be gay; Do crime
