@@ -1,15 +1,15 @@
-# Meters on Demand
-
-the Rainmeter package manager
-
+<div>
+  <h1><a href="https://docs.rainmeter.skin"><img align="left" src="https://docs.rainmeter.skin/box.svg" height="98" /></a>Meters on Demand</h1>
+  <p>the Rainmeter package manager</p>
+</div>
 
 # Getting started
 
-Using the cli: https://docs.rainmeter.skin/cli/
+Using the cli: https://docs.rainmeter.skin/cli/installing
 
-Publishing your skin: https://docs.rainmeter.skin/adding-skins.html
+Publishing your skin: https://docs.rainmeter.skin/guides/publishing
 
-Consuming the API: https://docs.rainmeter.skin/api/
+Consuming the API: https://docs.rainmeter.skin/api/consuming-the-api
 
 # What mond can do
 
